@@ -1,3 +1,5 @@
+
+# this code from https://github.com/jason9693/midi-neural-processor :D
 import pretty_midi
 
 
